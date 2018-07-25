@@ -1,0 +1,42 @@
+F:\Chuyen Nganh\RE PRN292\Project\QuanlyNhahang\QuanlyNhahang\bin\Debug\QuanlyNhahang.exe.config
+F:\Chuyen Nganh\RE PRN292\Project\QuanlyNhahang\QuanlyNhahang\bin\Debug\QuanlyNhahang.exe
+F:\Chuyen Nganh\RE PRN292\Project\QuanlyNhahang\QuanlyNhahang\bin\Debug\QuanlyNhahang.pdb
+F:\Chuyen Nganh\RE PRN292\Project\QuanlyNhahang\QuanlyNhahang\obj\Debug\QuanlyNhahang.csprojResolveAssemblyReference.cache
+F:\Chuyen Nganh\RE PRN292\Project\QuanlyNhahang\QuanlyNhahang\obj\Debug\QuanlyNhahang.fLogin.resources
+F:\Chuyen Nganh\RE PRN292\Project\QuanlyNhahang\QuanlyNhahang\obj\Debug\QuanlyNhahang.Properties.Resources.resources
+F:\Chuyen Nganh\RE PRN292\Project\QuanlyNhahang\QuanlyNhahang\obj\Debug\QuanlyNhahang.csproj.GenerateResource.Cache
+F:\Chuyen Nganh\RE PRN292\Project\QuanlyNhahang\QuanlyNhahang\obj\Debug\QuanlyNhahang.exe
+F:\Chuyen Nganh\RE PRN292\Project\QuanlyNhahang\QuanlyNhahang\obj\Debug\QuanlyNhahang.pdb
+F:\Chuyen Nganh\RE PRN292\Project\QuanlyNhahang\QuanlyNhahang\obj\Debug\QuanlyNhahang.fTableManager.resources
+F:\Chuyen Nganh\RE PRN292\Project\QuanlyNhahang\QuanlyNhahang\obj\Debug\QuanlyNhahang.fAccountProfile.resources
+F:\Chuyen Nganh\RE PRN292\Project\QuanlyNhahang\QuanlyNhahang\obj\Debug\QuanlyNhahang.fAdmin.resources
+C:\Users\HP\Desktop\Project\QuanlyNhahang\QuanlyNhahang\bin\Debug\QuanlyNhahang.exe.config
+C:\Users\HP\Desktop\Project\QuanlyNhahang\QuanlyNhahang\obj\Debug\QuanlyNhahang.exe
+C:\Users\HP\Desktop\Project\QuanlyNhahang\QuanlyNhahang\obj\Debug\QuanlyNhahang.pdb
+C:\Users\HP\Desktop\Project\QuanlyNhahang\QuanlyNhahang\bin\Debug\QuanlyNhahang.exe
+C:\Users\HP\Desktop\Project\QuanlyNhahang\QuanlyNhahang\bin\Debug\QuanlyNhahang.pdb
+C:\Users\HP\Desktop\Project\QuanlyNhahang\QuanlyNhahang\obj\Debug\QuanlyNhahang.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Project\QuanlyNhahang\QuanlyNhahang\obj\Debug\QuanlyNhahang.fAccountProfile.resources
+C:\Users\HP\Desktop\Project\QuanlyNhahang\QuanlyNhahang\obj\Debug\QuanlyNhahang.fAdmin.resources
+C:\Users\HP\Desktop\Project\QuanlyNhahang\QuanlyNhahang\obj\Debug\QuanlyNhahang.fLogin.resources
+C:\Users\HP\Desktop\Project\QuanlyNhahang\QuanlyNhahang\obj\Debug\QuanlyNhahang.fTableManager.resources
+C:\Users\HP\Desktop\Project\QuanlyNhahang\QuanlyNhahang\obj\Debug\QuanlyNhahang.Properties.Resources.resources
+C:\Users\HP\Desktop\Project\QuanlyNhahang\QuanlyNhahang\obj\Debug\QuanlyNhahang.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2015\Projects\QuanlyNhahang\QuanlyNhahang\bin\Debug\QuanlyNhahang.exe.config
+C:\Users\HP\Documents\Visual Studio 2015\Projects\QuanlyNhahang\QuanlyNhahang\obj\Debug\QuanlyNhahang.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\QuanlyNhahang\QuanlyNhahang\obj\Debug\QuanlyNhahang.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\QuanlyNhahang\QuanlyNhahang\bin\Debug\QuanlyNhahang.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\QuanlyNhahang\QuanlyNhahang\bin\Debug\QuanlyNhahang.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\QuanlyNhahang\QuanlyNhahang\obj\Debug\QuanlyNhahang.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2015\Projects\QuanlyNhahang\QuanlyNhahang\obj\Debug\QuanlyNhahang.fLogin.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\QuanlyNhahang\QuanlyNhahang\obj\Debug\QuanlyNhahang.fTableManager.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\QuanlyNhahang\QuanlyNhahang\obj\Debug\QuanlyNhahang.Properties.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\QuanlyNhahang\QuanlyNhahang\obj\Debug\QuanlyNhahang.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2015\Projects\QuanlyNhahang\QuanlyNhahang\obj\Debug\QuanlyNhahang.Table.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\QuanlyNhahang\QuanlyNhahang\obj\Debug\QuanlyNhahang.UserControls.Statistics.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\QuanlyNhahang\QuanlyNhahang\obj\Debug\QuanlyNhahang.UserControls.Management.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\QuanlyNhahang\QuanlyNhahang\obj\Debug\QuanlyNhahang.UserControls.ManagementFood.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\QuanlyNhahang\QuanlyNhahang\obj\Debug\QuanlyNhahang.UserControls.ManagementTable.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\QuanlyNhahang\QuanlyNhahang\obj\Debug\QuanlyNhahang.MyAccountInfo.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\QuanlyNhahang\QuanlyNhahang\obj\Debug\QuanlyNhahang.UserControls.ChangeInfoAccount.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\QuanlyNhahang\QuanlyNhahang\obj\Debug\QuanlyNhahang.UserControls.ManagementExtras.ManagementAccount.resources
